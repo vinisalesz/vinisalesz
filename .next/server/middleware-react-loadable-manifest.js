@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"index.tsx -> ../components/Background\":{\"id\":\"index.tsx -> ../components/Background\",\"files\":[\"static/chunks/src_components_Background_index_tsx.js\"]}}"
